@@ -9,7 +9,7 @@ Instructions
 =============
 * Open Unity3D
 * Open <b>[Repo]/unity/</b> Project
-* Open <b>[Repo]/unity/Assets/Scenes/</b> Scene
+* Open <b>[Repo]/unity/Assets/Scenes/</b>
 * Play
 
 

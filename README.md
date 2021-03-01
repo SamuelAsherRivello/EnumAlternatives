@@ -1,19 +1,3 @@
-<p align="center">
-    <img src="http://www.rivellomultimediaconsulting.com/wp-content/uploads/2012/01/rmc_logo_v1_200_100.jpg" alt="RMC">
-</p>
-
----
-
-* <a href="http://www.RivelloMultimediaConsulting.com/unity/">Rivello Multimedia Consulting</a> (RMC) provides consulting services for applications and games. We champion best practices and collaborative workflows.
-* Contact: <a href="https://twitter.com/srivello/">Twitter</a>, <a href="http://www.rivellomultimediaconsulting.com/contact/">Email</a>
-* More: <a href="http://bit.ly/RMC_Youtube">Youtube</a>, <a href="http://bit.ly/RMC_Vimeo2">Vimeo</a>, <a href="http://bit.ly/RMC_Facebook2">Facebook</a>, <a href="http://bit.ly/Sam_Rivello_LinkedIn">LinkedIn</a>, <a href="http://www.github.com/RivelloMultimediaConsulting/">Github</a>
-</p>
-
-
-
-
-
-
 
 Screenshot
 =============
@@ -29,24 +13,17 @@ Instructions
 * Play
 
 
-Structure Overview
+Created By
 =============
-* None
 
+- Samuel Asher Rivello 
+- Over 20 years XP with game development (2020)
+- Over 8 years XP with Unity (2020)
 
-Code Overview
+Contact
 =============
-* None
 
-Open Questions
-=============
-* None
-
-TODO
-=============
-* None
-
-
-
-
-
+- Twitter - <a href="https://twitter.com/srivello/">@srivello</a>
+- Resume & Portfolio - <a href="http://www.SamuelAsherRivello.com">SamuelAsherRivello.com</a>
+- Git - <a href="https://github.com/SamuelAsherRivello/">Github.com/SamuelAsherRivello</a>
+- LinkedIn - <a href="https://Linkedin.com/in/SamuelAsherRivello">Linkedin.com/in/SamuelAsherRivello</a> <--- Say Hello! :)
